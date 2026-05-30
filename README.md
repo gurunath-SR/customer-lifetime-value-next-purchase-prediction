@@ -31,20 +31,13 @@ The project uses transaction-level e-commerce data and applies machine learning 
 
 ## Project Structure
 
-Customer_Lifetime_Value_Project
-│
-├── data
-├── notebooks
-├── src
-├── models
-├── outputs
-│   ├── figures
-│   ├── reports
-│   └── predictions
-├── dashboard
-├── README.md
-├── requirements.txt
-└── venv
+data/
+notebooks/
+src/
+models/
+outputs/
+dashboard/
+
 ## Status
 
 Project Initialization Completed
