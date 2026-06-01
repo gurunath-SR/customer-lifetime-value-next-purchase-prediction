@@ -1,5 +1,9 @@
 # Customer Lifetime Value & Next Purchase Prediction
 
+## Live Demo
+
+Streamlit App:https://customer-lifetime-value-next-purchase-prediction-eminhe2hrosvr.streamlit.app/
+
 ## Project Overview
 
 This project predicts:
@@ -194,6 +198,33 @@ Built a complete **Customer Analytics Pipeline**:
 - Dashboard using Power BI
 
 ---
+
+## Live Demo
+
+Streamlit App:https://customer-lifetime-value-next-purchase-prediction-eminhe2hrosvr.streamlit.app/
+
+### Features
+
+* Customer Segmentation using RFM Analysis
+* Customer Lifetime Value (CLV) Prediction
+* Next Purchase Prediction
+* Interactive Streamlit Dashboard
+* Machine Learning Models: Random Forest, XGBoost, Linear Regression
+
+
+### Project Results
+
+* CLV Prediction R² Score: 0.786
+* Next Purchase Prediction Accuracy: 65%
+* Customer Segmentation using RFM Framework
+
+### Business Impact
+
+* Identify high-value customers
+* Predict future customer revenue
+* Improve customer retention strategies
+* Enable targeted marketing campaigns
+
 
 ## 📊 Author
 
